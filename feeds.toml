@@ -4,7 +4,6 @@ url = "https://pf.kakao.com/_xclMzK"
 entrySelector = "ul.list_news li"
 titleSelector = "span.txt_g"
 linkSelector = "a.link_item"
-imageSelector = "span.thume_item"
 waitUntil = "networkidle"
 
 [nike_seoul_kakao]
@@ -13,5 +12,4 @@ url = "https://pf.kakao.com/_iyabK"
 entrySelector = "ul.list_news li"
 titleSelector = "span.txt_g"
 linkSelector = "a.link_item"
-imageSelector = "span.thume_item"
 waitUntil = "networkidle"
