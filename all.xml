@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-19T01:21:33.917Z</updated>
+    <updated>2021-10-19T02:26:16.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM VIRTUAL SERVICE] (나이키 강남 ─ 카카오톡 채널)]]></title>
@@ -47,6 +47,13 @@
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/87528981"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/ctFe8T/btrgs99xDg0/0XY6UDBnZhEolEVsb0yYF0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[NIKE SEOUL_embellishment] (나이키 서울 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_iyabK/88453348</id>
+        <link href="https://pf.kakao.com/_iyabK/88453348"/>
+        <updated>2021-10-19T02:26:15.562Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/88453348"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/YyDZl/btrhZNEjU7X/71aXK3SDRvu0habZKbQKc1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL_embellishment] </span></span></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[NIKE SEOUL- "ESC_collection"] (나이키 서울 ─ 카카오톡 채널)]]></title>
         <id>https://pf.kakao.com/_iyabK/88261797</id>
         <link href="https://pf.kakao.com/_iyabK/88261797"/>
@@ -80,12 +87,5 @@
         <link href="https://pf.kakao.com/_iyabK/87870563"/>
         <updated>2021-10-19T01:12:47.567Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/87870563"><span class="thume_item" style="background-image: url(&quot;http://img1.daumcdn.net/kakaotv/KAKAOACCOUNT/2081522227/thumb/20211007183136&quot;);"><span class="txt_movie">00:20</span></span><span class="info_item"><span class="txt_g">[DUNK high-up_ style]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[나이키서울_한글날 컬렉션-그냥해] (나이키 서울 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_iyabK/87950453</id>
-        <link href="https://pf.kakao.com/_iyabK/87950453"/>
-        <updated>2021-10-19T01:12:47.569Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/87950453"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/zsG7E/btrg9DP5ok0/ATtAO6K1a36Vvkk0dtALGk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[나이키서울_한글날 컬렉션-그냥해] </span></span></a>]]></content>
     </entry>
 </feed>
