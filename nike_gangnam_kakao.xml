@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xclMzK</id>
     <title>나이키 강남 ─ 카카오톡 채널</title>
-    <updated>2021-10-20T10:09:48.941Z</updated>
+    <updated>2021-10-20T11:07:50.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://pf.kakao.com/_xclMzK/88354110"/>
         <updated>2021-10-20T09:09:21.266Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/88354110"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/cmwh3r/btrhTdQyFHq/0HlG4THk73paAf4XogMs3K/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?]]]></title>
-        <id>https://pf.kakao.com/_xclMzK/88354139</id>
-        <link href="https://pf.kakao.com/_xclMzK/88354139"/>
-        <updated>2021-10-19T09:09:48.801Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/88354139"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/Lz1bR/btrhTcc3cBD/ci50SXPkb3O3aasMtKCK6K/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB]]]></title>
@@ -46,5 +39,12 @@
         <link href="https://pf.kakao.com/_xclMzK/88153787"/>
         <updated>2021-10-19T01:12:39.753Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/88153787"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/gal6V/btrhzTb45Bp/V7EgvoK7IV3JbwjNc3ITvK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[NIKE GANGNAM - ATHLETE STYLING : HANGUL DAY]]]></title>
+        <id>https://pf.kakao.com/_xclMzK/87978208</id>
+        <link href="https://pf.kakao.com/_xclMzK/87978208"/>
+        <updated>2021-10-20T11:07:41.031Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/87978208"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/zbjea/btrhcOw01SM/clJw8KNrkJseSitxCE7eEK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - ATHLETE STYLING : HANGUL DAY]</span></span></a>]]></content>
     </entry>
 </feed>
