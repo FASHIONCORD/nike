@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-20T01:57:56.959Z</updated>
+    <updated>2021-10-20T02:28:58.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?] (나이키 강남 ─ 카카오톡 채널)]]></title>
@@ -47,6 +47,20 @@
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/87978208"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/zbjea/btrhcOw01SM/clJw8KNrkJseSitxCE7eEK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - ATHLETE STYLING : HANGUL DAY]</span></span></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[할로윈_PRODUCT_AF1] (나이키 서울 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_iyabK/88584265</id>
+        <link href="https://pf.kakao.com/_iyabK/88584265"/>
+        <updated>2021-10-20T02:28:58.014Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/88584265"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/bYTEDb/btribKNUj5J/1A1gjuuaiNNwzGhNNqRqTK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[할로윈_PRODUCT_AF1]</span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[할로윈_PRODUCT_AIR PRESTO] (나이키 서울 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_iyabK/88584394</id>
+        <link href="https://pf.kakao.com/_iyabK/88584394"/>
+        <updated>2021-10-20T02:28:58.014Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/88584394"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/As2mz/btridwhzSHv/UTKSAuYTOz20TunuaKQ4rK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[할로윈_PRODUCT_AIR PRESTO]</span></span></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[NIKE SEOUL_embellishment] (나이키 서울 ─ 카카오톡 채널)]]></title>
         <id>https://pf.kakao.com/_iyabK/88453348</id>
         <link href="https://pf.kakao.com/_iyabK/88453348"/>
@@ -73,19 +87,5 @@
         <link href="https://pf.kakao.com/_iyabK/88209480"/>
         <updated>2021-10-19T01:12:47.564Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/88209480"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/c9lEfR/btrhGNCJ3DM/94FubpuvO32Y0OQUZ1rk01/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW] </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL RUN CLUB] (나이키 서울 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_iyabK/88212092</id>
-        <link href="https://pf.kakao.com/_iyabK/88212092"/>
-        <updated>2021-10-19T01:12:47.566Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/88212092"><span class="thume_item" style="background-image: url(&quot;http://img1.daumcdn.net/kakaotv/KAKAOACCOUNT/1612881041/thumb/20211013193952&quot;);"><span class="txt_movie">01:16</span></span><span class="info_item"><span class="txt_g">[NIKE SEOUL RUN CLUB]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DUNK high-up_ style] (나이키 서울 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_iyabK/87870563</id>
-        <link href="https://pf.kakao.com/_iyabK/87870563"/>
-        <updated>2021-10-19T01:12:47.567Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/87870563"><span class="thume_item" style="background-image: url(&quot;http://img1.daumcdn.net/kakaotv/KAKAOACCOUNT/2081522227/thumb/20211007183136&quot;);"><span class="txt_movie">00:20</span></span><span class="info_item"><span class="txt_g">[DUNK high-up_ style]</span></span></a>]]></content>
     </entry>
 </feed>
