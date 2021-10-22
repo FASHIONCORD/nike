@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-22T08:10:40.918Z</updated>
+    <updated>2021-10-22T09:08:57.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[NIKE GANGNAM - THE DRAW] (나이키 강남 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_xclMzK/88740441</id>
+        <link href="https://pf.kakao.com/_xclMzK/88740441"/>
+        <updated>2021-10-22T09:08:49.606Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/88740441"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/cJEtkQ/btriz0B3DOO/4lxO3gK35oJOCPcO3q2Ko0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - THE DRAW]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?] (나이키 강남 ─ 카카오톡 채널)]]></title>
         <id>https://pf.kakao.com/_xclMzK/88354110</id>
@@ -38,13 +45,6 @@
         <link href="https://pf.kakao.com/_xclMzK/88153787"/>
         <updated>2021-10-19T01:12:39.753Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/88153787"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/gal6V/btrhzTb45Bp/V7EgvoK7IV3JbwjNc3ITvK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - ATHLETE STYLING : HANGUL DAY] (나이키 강남 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_xclMzK/87978208</id>
-        <link href="https://pf.kakao.com/_xclMzK/87978208"/>
-        <updated>2021-10-21T08:10:27.161Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/87978208"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/zbjea/btrhcOw01SM/clJw8KNrkJseSitxCE7eEK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - ATHLETE STYLING : HANGUL DAY]</span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE SEOUL_embellishment] (나이키 서울 ─ 카카오톡 채널)]]></title>
