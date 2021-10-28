@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-10-28T02:22:48.831Z</updated>
+    <updated>2021-10-28T03:09:48.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW]]]></title>
+        <id>https://pf.kakao.com/_iyabK/89103699</id>
+        <link href="https://pf.kakao.com/_iyabK/89103699"/>
+        <updated>2021-10-28T03:09:48.059Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89103699"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/begfKE/btri0CmCaY8/UtBhBdPLsStXbdwXsmghJ1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW] </span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MEMBER DAYS]]></title>
         <id>https://pf.kakao.com/_iyabK/89102362</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_iyabK/88697289"/>
         <updated>2021-10-22T02:04:28.775Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/88697289"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/rYpy8/btrioGLdRPG/QUglDevFcDg6ykgqwipCs1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL_embellishment] </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[할로윈_PRODUCT_AF1]]]></title>
-        <id>https://pf.kakao.com/_iyabK/88584265</id>
-        <link href="https://pf.kakao.com/_iyabK/88584265"/>
-        <updated>2021-10-20T02:28:58.014Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/88584265"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/b7TqX1/btrihLdIuZ7/i0RlySkWqQxkbvTMZkGHU0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[할로윈_PRODUCT_AF1]</span></span></a>]]></content>
     </entry>
 </feed>
