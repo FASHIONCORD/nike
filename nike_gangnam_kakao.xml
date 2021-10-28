@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xclMzK</id>
     <title>나이키 강남 ─ 카카오톡 채널</title>
-    <updated>2021-10-28T05:08:22.063Z</updated>
+    <updated>2021-10-28T06:11:52.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[THE DRAW]DUNK LOW RETRO & WMNS AIR JORDAN 1 MID]]></title>
+        <id>https://pf.kakao.com/_xclMzK/89195588</id>
+        <link href="https://pf.kakao.com/_xclMzK/89195588"/>
+        <updated>2021-10-28T06:11:43.762Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89195588"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/L6loQ/btri3LrNSo0/qyOD7eDA8A4FxHsoThvdo1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[THE DRAW]DUNK LOW RETRO &amp; WMNS AIR JORDAN 1 MID</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Member Days (10.27 – 10.31)]]></title>
         <id>https://pf.kakao.com/_xclMzK/89138665</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xclMzK/89055412"/>
         <updated>2021-10-26T08:11:19.526Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89055412"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/2ynPt/btriUuv50oZ/F1hNQOubehXNM8h0B81tcK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - ATHLETE STYLING : HALLOWEEN LOOK]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - ATHLETE STYLING : NRC PACER LOOK]]]></title>
-        <id>https://pf.kakao.com/_xclMzK/89055658</id>
-        <link href="https://pf.kakao.com/_xclMzK/89055658"/>
-        <updated>2021-10-26T08:11:19.527Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89055658"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/ZCOoc/btriXBIth0d/RegBEAAPV05SKamY2pkWSk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - ATHLETE STYLING : NRC PACER LOOK]</span></span></a>]]></content>
     </entry>
 </feed>
