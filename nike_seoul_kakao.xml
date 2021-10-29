@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-10-29T01:50:31.995Z</updated>
+    <updated>2021-10-29T02:22:53.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE SEOUL_embllishment]]]></title>
+        <id>https://pf.kakao.com/_iyabK/89117954</id>
+        <link href="https://pf.kakao.com/_iyabK/89117954"/>
+        <updated>2021-10-29T02:22:52.370Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89117954"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/j3EIE/btriYe1T1iJ/QI0Gp5wHVPKUfh7aiJKLX0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL_embllishment]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW]]]></title>
         <id>https://pf.kakao.com/_iyabK/89103699</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_iyabK/88857731"/>
         <updated>2021-10-25T03:09:27.833Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/88857731"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/czcONZ/btriFtjhwkx/zfg3rEqk9YpeHNyiFKI5JK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL_embellishment]]]></title>
-        <id>https://pf.kakao.com/_iyabK/88697289</id>
-        <link href="https://pf.kakao.com/_iyabK/88697289"/>
-        <updated>2021-10-22T02:04:28.775Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/88697289"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/rYpy8/btrioGLdRPG/QUglDevFcDg6ykgqwipCs1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL_embellishment] </span></span></a>]]></content>
     </entry>
 </feed>
