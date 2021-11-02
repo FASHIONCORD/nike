@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xclMzK</id>
     <title>나이키 강남 ─ 카카오톡 채널</title>
-    <updated>2021-11-02T09:09:28.078Z</updated>
+    <updated>2021-11-02T10:09:49.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB]]]></title>
+        <id>https://pf.kakao.com/_xclMzK/89592605</id>
+        <link href="https://pf.kakao.com/_xclMzK/89592605"/>
+        <updated>2021-11-02T10:09:40.226Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89592605"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/s83aP/btrjIzXKOxY/sW2yZZB9Z6Vv72ShRkGRcK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM RUNCLUB]]]></title>
         <id>https://pf.kakao.com/_xclMzK/89376359</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xclMzK/89065540"/>
         <updated>2021-10-26T10:10:02.353Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89065540"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/b8pyUG/btriSkVhPc5/CfNfnZLDkqongjKmCNswuK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - ATHLETE STYLING : HALLOWEEN LOOK]]]></title>
-        <id>https://pf.kakao.com/_xclMzK/89055412</id>
-        <link href="https://pf.kakao.com/_xclMzK/89055412"/>
-        <updated>2021-10-26T08:11:19.526Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89055412"><span class="thume_item" style="background-image: url(&quot;http://k.kakaocdn.net/dn/2ynPt/btriUuv50oZ/F1hNQOubehXNM8h0B81tcK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - ATHLETE STYLING : HALLOWEEN LOOK]</span></span></a>]]></content>
     </entry>
 </feed>
