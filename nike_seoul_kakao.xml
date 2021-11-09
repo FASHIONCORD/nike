@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-11-09T03:09:47.928Z</updated>
+    <updated>2021-11-09T04:11:23.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
     <entry>
@@ -41,10 +41,10 @@
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89117954"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/j3EIE/btriYe1T1iJ/QI0Gp5wHVPKUfh7aiJKLX0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL_embellishment]</span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW]]]></title>
-        <id>https://pf.kakao.com/_iyabK/89103699</id>
-        <link href="https://pf.kakao.com/_iyabK/89103699"/>
-        <updated>2021-10-28T03:09:48.059Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89103699"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/begfKE/btri0CmCaY8/UtBhBdPLsStXbdwXsmghJ1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW] </span></span></a>]]></content>
+        <title type="html"><![CDATA[MEMBER DAYS]]></title>
+        <id>https://pf.kakao.com/_iyabK/89102362</id>
+        <link href="https://pf.kakao.com/_iyabK/89102362"/>
+        <updated>2021-11-09T04:11:23.071Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89102362"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/eh5AiS/btri0AWyr24/2cMSxDBLb4kiMycrvOHcjk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">MEMBER DAYS</span></span></a>]]></content>
     </entry>
 </feed>
