@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-11-10T10:10:32.984Z</updated>
+    <updated>2021-11-10T11:08:08.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://pf.kakao.com/_iyabK/89799061"/>
         <updated>2021-11-08T03:09:53.796Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89799061"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/srzax/btrj2Ug3Wf3/vyEkujBxWUfyTLZ2y7R5OK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIKE SEOUL RUN CLUB]]></title>
-        <id>https://pf.kakao.com/_iyabK/89637579</id>
-        <link href="https://pf.kakao.com/_iyabK/89637579"/>
-        <updated>2021-11-03T12:13:43.649Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89637579"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bPLwQa/btrjJacFBSI/iDFb1azSyhPLiXNfKjsiz0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">NIKE SEOUL RUN CLUB</span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MEMBER DAYS]]></title>
@@ -46,5 +39,12 @@
         <link href="https://pf.kakao.com/_iyabK/89102362"/>
         <updated>2021-11-09T04:11:23.071Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89102362"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/eh5AiS/btri0AWyr24/2cMSxDBLb4kiMycrvOHcjk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">MEMBER DAYS</span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SB_Style]]]></title>
+        <id>https://pf.kakao.com/_iyabK/89099233</id>
+        <link href="https://pf.kakao.com/_iyabK/89099233"/>
+        <updated>2021-11-10T11:08:07.634Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89099233"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/312784495/thumb/20211027115902&quot;);"><span class="txt_movie">01:15</span></span><span class="info_item"><span class="txt_g">[SB_Style]</span></span></a>]]></content>
     </entry>
 </feed>
