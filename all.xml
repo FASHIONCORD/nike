@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-15T10:10:30.612Z</updated>
+    <updated>2021-11-15T11:08:17.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?] (나이키 강남 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_xclMzK/90163408</id>
+        <link href="https://pf.kakao.com/_xclMzK/90163408"/>
+        <updated>2021-11-15T11:08:09.641Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90163408"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bgpGFV/btrkTabVRch/77GCsXTKcA9oCDp8TCLRyk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - THE DRAW] WMNS DUNK LOW (나이키 강남 ─ 카카오톡 채널)]]></title>
         <id>https://pf.kakao.com/_xclMzK/89946998</id>
@@ -38,13 +45,6 @@
         <link href="https://pf.kakao.com/_xclMzK/89376359"/>
         <updated>2021-10-30T09:08:32.414Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89376359"><span class="thume_item" style="background-image: url(&quot;//thumb.kakaocdn.net/dna/kamp/source/rvxclbam1qmcgngjzajof5g73/thumbs/thumb.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33192491089&amp;signature=thFbhQFbMwfnYnBYBnkYm%2Fs822s%3D&amp;ts=1635582289&quot;);"><span class="txt_movie">01:26</span></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM RUNCLUB]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB] (나이키 강남 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_xclMzK/89065540</id>
-        <link href="https://pf.kakao.com/_xclMzK/89065540"/>
-        <updated>2021-11-10T01:51:34.773Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89065540"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/b8pyUG/btriSkVhPc5/CfNfnZLDkqongjKmCNswuK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE SEOUL UNBOXING_BLAZER MID '77 JUMBO] (나이키 서울 ─ 카카오톡 채널)]]></title>
