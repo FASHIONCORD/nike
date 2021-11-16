@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-11-16T03:09:58.582Z</updated>
+    <updated>2021-11-16T04:11:25.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW]]]></title>
+        <id>https://pf.kakao.com/_iyabK/90159193</id>
+        <link href="https://pf.kakao.com/_iyabK/90159193"/>
+        <updated>2021-11-16T04:11:25.289Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90159193"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/dcUWIP/btrk6NTO4nI/TLuFpKvH63VVl13EKNrwv0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE SEOUL UNBOXING_BLAZER MID '77 JUMBO]]]></title>
         <id>https://pf.kakao.com/_iyabK/89981891</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_iyabK/89117954"/>
         <updated>2021-10-29T02:22:52.370Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89117954"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/j3EIE/btriYe1T1iJ/QI0Gp5wHVPKUfh7aiJKLX0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL_embellishment]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SB_Style]]]></title>
-        <id>https://pf.kakao.com/_iyabK/89099233</id>
-        <link href="https://pf.kakao.com/_iyabK/89099233"/>
-        <updated>2021-11-11T12:14:01.124Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89099233"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/312784495/thumb/20211027115902&quot;);"><span class="txt_movie">01:15</span></span><span class="info_item"><span class="txt_g">[SB_Style]</span></span></a>]]></content>
     </entry>
 </feed>
