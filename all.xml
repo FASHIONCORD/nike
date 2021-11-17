@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-17T11:07:51.301Z</updated>
+    <updated>2021-11-17T12:14:17.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB] (나이키 강남 ─ 카카오톡 채널)]]></title>
@@ -47,6 +47,13 @@
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89592605"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/s83aP/btrjIzXKOxY/sW2yZZB9Z6Vv72ShRkGRcK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NIKE SEOUL RUN CLUB (나이키 서울 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_iyabK/90257022</id>
+        <link href="https://pf.kakao.com/_iyabK/90257022"/>
+        <updated>2021-11-17T12:14:16.507Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90257022"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/ccyzDc/btrlgGu4LHs/kQtPmFAAgzDGHC10fQU750/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">NIKE SEOUL RUN CLUB</span></span></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW] (나이키 서울 ─ 카카오톡 채널)]]></title>
         <id>https://pf.kakao.com/_iyabK/90159193</id>
         <link href="https://pf.kakao.com/_iyabK/90159193"/>
@@ -80,12 +87,5 @@
         <link href="https://pf.kakao.com/_iyabK/89799061"/>
         <updated>2021-11-08T03:09:53.796Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89799061"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/srzax/btrj2Ug3Wf3/vyEkujBxWUfyTLZ2y7R5OK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL_embellishment] (나이키 서울 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_iyabK/89117954</id>
-        <link href="https://pf.kakao.com/_iyabK/89117954"/>
-        <updated>2021-10-29T02:22:52.370Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89117954"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/j3EIE/btriYe1T1iJ/QI0Gp5wHVPKUfh7aiJKLX0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL_embellishment]</span></span></a>]]></content>
     </entry>
 </feed>
