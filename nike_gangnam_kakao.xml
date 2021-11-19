@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xclMzK</id>
     <title>나이키 강남 ─ 카카오톡 채널</title>
-    <updated>2021-11-19T13:16:28.533Z</updated>
+    <updated>2021-11-19T14:08:54.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - THE DRAW]]]></title>
-        <id>https://pf.kakao.com/_xclMzK/90330480</id>
-        <link href="https://pf.kakao.com/_xclMzK/90330480"/>
-        <updated>2021-11-19T06:11:15.996Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90330480"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/jUm9K/btrlwXvFOEK/gxcMkQ5NKyooJdRtvjNOIK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - THE DRAW]</span></span></a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB]]]></title>
         <id>https://pf.kakao.com/_xclMzK/90192357</id>
@@ -46,5 +39,12 @@
         <link href="https://pf.kakao.com/_xclMzK/89880534"/>
         <updated>2021-11-09T10:09:54.456Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89880534"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/uuqGu/btrkjklOLvm/XBB8Pv5RhKSfQax3dI3BBK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB]]]></title>
+        <id>https://pf.kakao.com/_xclMzK/89592605</id>
+        <link href="https://pf.kakao.com/_xclMzK/89592605"/>
+        <updated>2021-11-19T14:08:44.945Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89592605"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/s83aP/btrjIzXKOxY/sW2yZZB9Z6Vv72ShRkGRcK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
     </entry>
 </feed>
