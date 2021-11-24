@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xclMzK</id>
     <title>나이키 강남 ─ 카카오톡 채널</title>
-    <updated>2021-11-24T06:11:30.364Z</updated>
+    <updated>2021-11-24T07:09:52.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE GANGNAM - THE DRAW]]]></title>
+        <id>https://pf.kakao.com/_xclMzK/90427443</id>
+        <link href="https://pf.kakao.com/_xclMzK/90427443"/>
+        <updated>2021-11-24T07:09:44.730Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90427443"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/cK4Ev2/btrl1LH8dby/UlkPrePfP9fzwdIOUb9pkk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - THE DRAW]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?]]]></title>
         <id>https://pf.kakao.com/_xclMzK/90427838</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xclMzK/90163408"/>
         <updated>2021-11-15T11:08:09.641Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90163408"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bgpGFV/btrkTabVRch/77GCsXTKcA9oCDp8TCLRyk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - ATHLETE STYLING : JORDAN LOOK]]]></title>
-        <id>https://pf.kakao.com/_xclMzK/89897197</id>
-        <link href="https://pf.kakao.com/_xclMzK/89897197"/>
-        <updated>2021-11-10T01:51:34.762Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/89897197"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/cnkAYV/btrkqrw1bzp/qpwsNif41YU2H0aiQ1BQaK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - ATHLETE STYLING : JORDAN LOOK]</span></span></a>]]></content>
     </entry>
 </feed>
