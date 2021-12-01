@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-12-01T02:31:42.625Z</updated>
+    <updated>2021-12-01T03:09:48.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW]]]></title>
+        <id>https://pf.kakao.com/_iyabK/90807518</id>
+        <link href="https://pf.kakao.com/_iyabK/90807518"/>
+        <updated>2021-12-01T03:09:47.375Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90807518"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/Pl914/btrmCMNBOQE/i5dAQBrnC81Sq11BowUBl0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OWN THE FLOOR]]></title>
         <id>https://pf.kakao.com/_iyabK/90607056</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_iyabK/90257022"/>
         <updated>2021-11-17T12:14:16.507Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90257022"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/ccyzDc/btrlgGu4LHs/kQtPmFAAgzDGHC10fQU750/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">NIKE SEOUL RUN CLUB</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL UNBOXING_BLAZER MID '77 JUMBO]]]></title>
-        <id>https://pf.kakao.com/_iyabK/89981891</id>
-        <link href="https://pf.kakao.com/_iyabK/89981891"/>
-        <updated>2021-11-12T06:11:30.086Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89981891"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/294696861/thumb/20211112141039&quot;);"><span class="txt_movie">00:46</span></span><span class="info_item"><span class="txt_g">[NIKE SEOUL UNBOXING_BLAZER MID '77 JUMBO]</span></span></a>]]></content>
     </entry>
 </feed>
