@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-12-01T11:08:49.949Z</updated>
+    <updated>2021-12-01T12:14:26.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NIKE SEOUL RUN CLUB]]></title>
+        <id>https://pf.kakao.com/_iyabK/90504317</id>
+        <link href="https://pf.kakao.com/_iyabK/90504317"/>
+        <updated>2021-12-01T12:14:26.204Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90504317"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bjIx1E/btrl54NUUls/u94yMUczH76SVWdi5GFWN1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">NIKE SEOUL RUN CLUB</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW]]]></title>
         <id>https://pf.kakao.com/_iyabK/90807518</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_iyabK/90388622"/>
         <updated>2021-11-21T03:09:36.887Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90388622"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/buVb0t/btrlIlPWpmB/gFhp06ryIlymytnMh7Vca0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIKE SEOUL RUN CLUB]]></title>
-        <id>https://pf.kakao.com/_iyabK/90257022</id>
-        <link href="https://pf.kakao.com/_iyabK/90257022"/>
-        <updated>2021-11-17T12:14:16.507Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90257022"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/ccyzDc/btrlgGu4LHs/kQtPmFAAgzDGHC10fQU750/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">NIKE SEOUL RUN CLUB</span></span></a>]]></content>
     </entry>
 </feed>
