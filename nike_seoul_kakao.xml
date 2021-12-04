@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-12-04T01:52:25.932Z</updated>
+    <updated>2021-12-04T02:27:39.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE SEOUL KEY PEEK_ RUN DIVISION]]]></title>
+        <id>https://pf.kakao.com/_iyabK/90932433</id>
+        <link href="https://pf.kakao.com/_iyabK/90932433"/>
+        <updated>2021-12-04T02:27:39.280Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90932433"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/1391196534/thumb/20211204104255&quot;);"><span class="txt_movie">01:00</span></span><span class="info_item"><span class="txt_g">[NIKE SEOUL KEY PEEK_ RUN DIVISION]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIKE SEOUL RUN CLUB]]></title>
         <id>https://pf.kakao.com/_iyabK/90504317</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_iyabK/89117954"/>
         <updated>2021-12-02T19:08:00.010Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89117954"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/j3EIE/btriYe1T1iJ/QI0Gp5wHVPKUfh7aiJKLX0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL_embellishment]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SB_Style]]]></title>
-        <id>https://pf.kakao.com/_iyabK/89099233</id>
-        <link href="https://pf.kakao.com/_iyabK/89099233"/>
-        <updated>2021-12-02T19:08:00.012Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89099233"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/312784495/thumb/20211027115902&quot;);"><span class="txt_movie">01:15</span></span><span class="info_item"><span class="txt_g">[SB_Style]</span></span></a>]]></content>
     </entry>
 </feed>
