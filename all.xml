@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-10T01:52:21.485Z</updated>
+    <updated>2021-12-10T02:25:26.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?] (나이키 강남 ─ 카카오톡 채널)]]></title>
@@ -47,6 +47,13 @@
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90456050"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bgSAL6/btrlSkrCgSe/ATmKB9yrqPsGvq3YYeGLAK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NIKE SEOUL [JD - Style] (나이키 서울 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_iyabK/91173624</id>
+        <link href="https://pf.kakao.com/_iyabK/91173624"/>
+        <updated>2021-12-10T02:25:25.530Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91173624"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/366326967/thumb/20211208215710&quot;);"><span class="txt_movie">01:01</span></span><span class="info_item"><span class="txt_g">NIKE SEOUL [JD - Style]</span></span></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[NIKE SEOUL RUN CLUB] (나이키 서울 ─ 카카오톡 채널)]]></title>
         <id>https://pf.kakao.com/_iyabK/90946022</id>
         <link href="https://pf.kakao.com/_iyabK/90946022"/>
@@ -80,12 +87,5 @@
         <link href="https://pf.kakao.com/_iyabK/90607056"/>
         <updated>2021-12-09T08:11:28.674Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90607056"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/1612406948/thumb/20211127140353&quot;);"><span class="txt_movie">00:45</span></span><span class="info_item"><span class="txt_g">OWN THE FLOOR</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL UNBOXING_BLAZER MID '77 JUMBO] (나이키 서울 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_iyabK/89981891</id>
-        <link href="https://pf.kakao.com/_iyabK/89981891"/>
-        <updated>2021-12-09T08:11:28.674Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/89981891"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/294696861/thumb/20211112141039&quot;);"><span class="txt_movie">00:46</span></span><span class="info_item"><span class="txt_g">[NIKE SEOUL UNBOXING_BLAZER MID '77 JUMBO]</span></span></a>]]></content>
     </entry>
 </feed>
