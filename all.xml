@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-11T00:29:36.602Z</updated>
+    <updated>2021-12-11T01:53:02.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?] (나이키 강남 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_xclMzK/91231283</id>
+        <link href="https://pf.kakao.com/_xclMzK/91231283"/>
+        <updated>2021-12-11T01:52:53.251Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91231283"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/YSd9v/btrnteCTunv/z3ILbPtcHTykFO9tX2QUsK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?] (나이키 강남 ─ 카카오톡 채널)]]></title>
         <id>https://pf.kakao.com/_xclMzK/91035982</id>
@@ -38,13 +45,6 @@
         <link href="https://pf.kakao.com/_xclMzK/90769022"/>
         <updated>2021-11-30T05:07:57.821Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90769022"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/6UJ3u/btrmtVjXEy5/caqb4WnlSjQk6Ra6F1r5v0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB] (나이키 강남 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_xclMzK/90456050</id>
-        <link href="https://pf.kakao.com/_xclMzK/90456050"/>
-        <updated>2021-12-08T08:11:26.781Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90456050"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bgSAL6/btrlSkrCgSe/ATmKB9yrqPsGvq3YYeGLAK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NIKE SEOUL [JD - Style] (나이키 서울 ─ 카카오톡 채널)]]></title>
