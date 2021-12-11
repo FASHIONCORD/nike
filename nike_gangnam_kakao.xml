@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xclMzK</id>
     <title>나이키 강남 ─ 카카오톡 채널</title>
-    <updated>2021-12-11T11:07:58.229Z</updated>
+    <updated>2021-12-11T12:13:47.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[나이키 강남 Athlete's Outer Fit]]]></title>
+        <id>https://pf.kakao.com/_xclMzK/91271394</id>
+        <link href="https://pf.kakao.com/_xclMzK/91271394"/>
+        <updated>2021-12-11T12:13:37.068Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91271394"><span class="thume_item" style="background-image: url(&quot;//thumb.kakaocdn.net/dna/kamp/source/rvc3rwfh9m7nenu2ru7sleikv/thumbs/thumb.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33196133350&amp;signature=%2Fbj6nAF2400d7PYI16m0S%2FUDnPg%3D&quot;);"><span class="txt_movie">00:41</span></span><span class="info_item"><span class="txt_g">[나이키 강남 Athlete's Outer Fit]</span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[나이키 강남 Athlete's Outer Fit]]]></title>
+        <id>https://pf.kakao.com/_xclMzK/91271384</id>
+        <link href="https://pf.kakao.com/_xclMzK/91271384"/>
+        <updated>2021-12-11T12:13:37.070Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91271384"><span class="thume_item" style="background-image: url(&quot;//thumb.kakaocdn.net/dna/kamp/source/rv693u2uvzchzdyxkdewiyjkn/thumbs/thumb.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33196133248&amp;signature=KI%2Fc9Nso0TSF5%2Bwou0jQZN4UA9A%3D&quot;);"><span class="txt_movie">00:41</span></span><span class="info_item"><span class="txt_g">[나이키 강남 Athlete's Outer Fit]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?]]]></title>
         <id>https://pf.kakao.com/_xclMzK/91231283</id>
         <link href="https://pf.kakao.com/_xclMzK/91231283"/>
         <updated>2021-12-11T01:52:53.251Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91231283"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/YSd9v/btrnteCTunv/z3ILbPtcHTykFO9tX2QUsK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?]]]></title>
-        <id>https://pf.kakao.com/_xclMzK/91035982</id>
-        <link href="https://pf.kakao.com/_xclMzK/91035982"/>
-        <updated>2021-12-07T08:11:39.104Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91035982"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/k89KG/btrm82Co9nV/kUFGfj2sqCIGYpbmeKMhxK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB]]]></title>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xclMzK/90982716"/>
         <updated>2021-12-06T02:28:15.115Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90982716"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/lJY6u/btrmYmg5J0r/kTesGsket5FYTffmgcMkN1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB]]]></title>
-        <id>https://pf.kakao.com/_xclMzK/90769022</id>
-        <link href="https://pf.kakao.com/_xclMzK/90769022"/>
-        <updated>2021-11-30T05:07:57.821Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90769022"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/6UJ3u/btrmtVjXEy5/caqb4WnlSjQk6Ra6F1r5v0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
     </entry>
 </feed>
