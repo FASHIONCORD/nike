@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-12-14T06:11:14.620Z</updated>
+    <updated>2021-12-14T07:09:56.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW]]]></title>
+        <id>https://pf.kakao.com/_iyabK/91334392</id>
+        <link href="https://pf.kakao.com/_iyabK/91334392"/>
+        <updated>2021-12-14T07:09:56.254Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91334392"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/dx51pl/btrnJebhsgl/unzNOPr8BQbRNm4gRruVQ0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW]]]></title>
         <id>https://pf.kakao.com/_iyabK/91287436</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_iyabK/91036245"/>
         <updated>2021-12-07T08:11:47.882Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91036245"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/KG138/btrm1jrqMBq/VPc3PhqDDsQNKxACfb9zk0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW]]]></title>
-        <id>https://pf.kakao.com/_iyabK/90947001</id>
-        <link href="https://pf.kakao.com/_iyabK/90947001"/>
-        <updated>2021-12-05T03:09:59.451Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90947001"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/clDY6k/btrmZnlUmAw/MIxGUM2Zwocq86BipU1oX1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
     </entry>
 </feed>
