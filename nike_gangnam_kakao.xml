@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xclMzK</id>
     <title>나이키 강남 ─ 카카오톡 채널</title>
-    <updated>2021-12-15T06:10:59.923Z</updated>
+    <updated>2021-12-15T07:09:37.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE GANGNAM - THE DRAW]]]></title>
+        <id>https://pf.kakao.com/_xclMzK/91397125</id>
+        <link href="https://pf.kakao.com/_xclMzK/91397125"/>
+        <updated>2021-12-15T07:09:27.908Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91397125"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/n0jcu/btrnR4mns8c/bKCK9haugqchd8nPcsPQWk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - THE DRAW]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB]]]></title>
         <id>https://pf.kakao.com/_xclMzK/91328218</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xclMzK/91058512"/>
         <updated>2021-12-07T08:11:39.106Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91058512"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/X38a8/btrnd5kYpK6/oarbPZN9xo6Emnjrxeey40/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?]]]></title>
-        <id>https://pf.kakao.com/_xclMzK/90982874</id>
-        <link href="https://pf.kakao.com/_xclMzK/90982874"/>
-        <updated>2021-12-06T02:28:15.115Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/90982874"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/Y7Ic9/btrm55ZbqEC/Lg4Ladykp45FkfnA5kCZ1k/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
     </entry>
 </feed>
