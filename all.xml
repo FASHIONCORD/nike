@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-14T23:09:33.944Z</updated>
+    <updated>2021-12-15T00:30:53.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - RUNCLUB] (나이키 강남 ─ 카카오톡 채널)]]></title>
@@ -75,17 +75,17 @@
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91173624"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/366326967/thumb/20211208215710&quot;);"><span class="txt_movie">01:01</span></span><span class="info_item"><span class="txt_g">NIKE SEOUL [JD - Style]</span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL RUN CLUB] (나이키 서울 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_iyabK/90946022</id>
-        <link href="https://pf.kakao.com/_iyabK/90946022"/>
-        <updated>2021-12-08T12:16:09.457Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90946022"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/cmYHxP/btrmYkC8rKm/J6LWM8A2qwbCA3wnYoaaxK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL RUN CLUB]</span></span></a>]]></content>
+        <title type="html"><![CDATA[[NIKE SEOUL KEY PEEK_ RUN DIVISION] (나이키 서울 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_iyabK/90932433</id>
+        <link href="https://pf.kakao.com/_iyabK/90932433"/>
+        <updated>2021-12-15T00:30:53.145Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90932433"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/1391196534/thumb/20211204104255&quot;);"><span class="txt_movie">01:00</span></span><span class="info_item"><span class="txt_g">[NIKE SEOUL KEY PEEK_ RUN DIVISION]</span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW] (나이키 서울 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_iyabK/91036245</id>
-        <link href="https://pf.kakao.com/_iyabK/91036245"/>
-        <updated>2021-12-07T08:11:47.882Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91036245"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/KG138/btrm1jrqMBq/VPc3PhqDDsQNKxACfb9zk0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - THE DRAW]</span></span></a>]]></content>
+        <title type="html"><![CDATA[OWN THE FLOOR (나이키 서울 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_iyabK/90607056</id>
+        <link href="https://pf.kakao.com/_iyabK/90607056"/>
+        <updated>2021-12-15T00:30:53.147Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90607056"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/1612406948/thumb/20211127140353&quot;);"><span class="txt_movie">00:45</span></span><span class="info_item"><span class="txt_g">OWN THE FLOOR</span></span></a>]]></content>
     </entry>
 </feed>
