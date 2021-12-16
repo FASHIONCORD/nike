@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_iyabK</id>
     <title>나이키 서울 ─ 카카오톡 채널</title>
-    <updated>2021-12-16T01:54:24.350Z</updated>
+    <updated>2021-12-16T02:27:45.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NIKE SEOUL_1on1 스타일링]]]></title>
+        <id>https://pf.kakao.com/_iyabK/91415509</id>
+        <link href="https://pf.kakao.com/_iyabK/91415509"/>
+        <updated>2021-12-16T02:27:44.977Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91415509"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/1818540708/thumb/20211215200013&quot;);"><span class="txt_movie">00:35</span></span><span class="info_item"><span class="txt_g">[NIKE SEOUL_1on1 스타일링]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIKE SEOUL RUN CLUB]]></title>
         <id>https://pf.kakao.com/_iyabK/91283215</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_iyabK/91173624"/>
         <updated>2021-12-10T02:25:25.530Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91173624"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/366326967/thumb/20211208215710&quot;);"><span class="txt_movie">01:01</span></span><span class="info_item"><span class="txt_g">NIKE SEOUL [JD - Style]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE SEOUL KEY PEEK_ RUN DIVISION]]]></title>
-        <id>https://pf.kakao.com/_iyabK/90932433</id>
-        <link href="https://pf.kakao.com/_iyabK/90932433"/>
-        <updated>2021-12-15T00:30:53.145Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/90932433"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/1391196534/thumb/20211204104255&quot;);"><span class="txt_movie">01:00</span></span><span class="info_item"><span class="txt_g">[NIKE SEOUL KEY PEEK_ RUN DIVISION]</span></span></a>]]></content>
     </entry>
 </feed>
