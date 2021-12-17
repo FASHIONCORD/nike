@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-17T01:58:47.840Z</updated>
+    <updated>2021-12-17T02:34:05.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?] (나이키 강남 ─ 카카오톡 채널)]]></title>
@@ -47,6 +47,13 @@
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91058512"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/X38a8/btrnd5kYpK6/oarbPZN9xo6Emnjrxeey40/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - RUNCLUB]</span></span></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[NIKE SEOUL - HOLIDAY GIFT PACK] (나이키 서울 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_iyabK/91381708</id>
+        <link href="https://pf.kakao.com/_iyabK/91381708"/>
+        <updated>2021-12-17T02:34:04.723Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91381708"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/661718807/thumb/20211214184213&quot;);"><span class="txt_movie">00:44</span></span><span class="info_item"><span class="txt_g">[NIKE SEOUL - HOLIDAY GIFT PACK]</span></span></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[NIKE SEOUL - THE DRAW] (나이키 서울 ─ 카카오톡 채널)]]></title>
         <id>https://pf.kakao.com/_iyabK/91452521</id>
         <link href="https://pf.kakao.com/_iyabK/91452521"/>
@@ -80,12 +87,5 @@
         <link href="https://pf.kakao.com/_iyabK/91271059"/>
         <updated>2021-12-11T11:07:57.580Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91271059"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/420255635/thumb/20211211200023&quot;);"><span class="txt_movie">01:00</span></span><span class="info_item"><span class="txt_g">[NIKE SEOUL UNBOXING_ AIR JORDAN 11 Cool Grey]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIKE SEOUL [JD - Style] (나이키 서울 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_iyabK/91173624</id>
-        <link href="https://pf.kakao.com/_iyabK/91173624"/>
-        <updated>2021-12-10T02:25:25.530Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_iyabK/91173624"><span class="thume_item" style="background-image: url(&quot;//img1.daumcdn.net/kakaotv/KAKAOACCOUNT/366326967/thumb/20211208215710&quot;);"><span class="txt_movie">01:01</span></span><span class="info_item"><span class="txt_g">NIKE SEOUL [JD - Style]</span></span></a>]]></content>
     </entry>
 </feed>
