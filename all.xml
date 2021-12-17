@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/nike/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-17T08:11:28.265Z</updated>
+    <updated>2021-12-17T09:10:13.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[NIKE GANGNAM - THE DRAW] (나이키 강남 ─ 카카오톡 채널)]]></title>
+        <id>https://pf.kakao.com/_xclMzK/91479019</id>
+        <link href="https://pf.kakao.com/_xclMzK/91479019"/>
+        <updated>2021-12-17T09:10:04.752Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91479019"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/NDYTU/btrocdB1z7W/pJC3Cbmo0x8kZNH2expGq1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - THE DRAW]</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?] (나이키 강남 ─ 카카오톡 채널)]]></title>
         <id>https://pf.kakao.com/_xclMzK/91479111</id>
@@ -38,13 +45,6 @@
         <link href="https://pf.kakao.com/_xclMzK/91271384"/>
         <updated>2021-12-11T12:13:37.070Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91271384"><span class="thume_item" style="background-image: url(&quot;//thumb.kakaocdn.net/dna/kamp/source/rv693u2uvzchzdyxkdewiyjkn/thumbs/thumb.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33196133248&amp;signature=KI%2Fc9Nso0TSF5%2Bwou0jQZN4UA9A%3D&quot;);"><span class="txt_movie">00:41</span></span><span class="info_item"><span class="txt_g">[나이키 강남 Athlete's Outer Fit]</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIKE GANGNAM - WHAT'S NEXT?] (나이키 강남 ─ 카카오톡 채널)]]></title>
-        <id>https://pf.kakao.com/_xclMzK/91231283</id>
-        <link href="https://pf.kakao.com/_xclMzK/91231283"/>
-        <updated>2021-12-11T01:52:53.251Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xclMzK/91231283"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/YSd9v/btrnteCTunv/z3ILbPtcHTykFO9tX2QUsK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">[NIKE GANGNAM - WHAT'S NEXT?]</span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[NIKE SEOUL - HOLIDAY GIFT PACK] (나이키 서울 ─ 카카오톡 채널)]]></title>
